@@ -17,6 +17,6 @@
 ## Instalação
 
 1. Certifique-se de que o Python 3 está instalado no seu sistema.
-2. Instale as dependências do projeto:
+2. Instale as dependências do projeto: 
    ```bash
-   pip install SpeechRecognition pyttsx3
+   git clone https://github.com/NikolasSucadorni/NIX.git
